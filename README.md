@@ -13,3 +13,5 @@
 -   🏠 China@Zhejiang
 
 ---
+
+![snake](https://github.com/rjman-ljm/rjman-ljm/blob/master/resources/github-contribution-grid-snake.svg)
